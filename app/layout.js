@@ -1,6 +1,6 @@
 export const metadata = {
     title: "My App",
-    description: "A Next.js app deployed on Railway",
+    description: "A Profile app",
   };
   
   export default function RootLayout({ children }) {
