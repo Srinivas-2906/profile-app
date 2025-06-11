@@ -202,7 +202,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-semibold text-gray-900 mb-2">No profiles found</h3>
               <p className="text-gray-500 text-lg mb-8 max-w-md mx-auto">
-                Get started by creating your first profile. It's quick and easy!
+                Get started by creating your first profile. It&apos;s quick and easy!
               </p>
               <button
                 onClick={() => {
